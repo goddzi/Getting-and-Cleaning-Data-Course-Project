@@ -20,6 +20,4 @@ test_ds        -conbined dataset of test
 
 ds_all         -conbined all dataset
 
-tblAll         -selected mean and standard deviation
-
-tblAllMltMean  -created second, independent tidy data set  
+secondDataset  -created second, independent tidy data set  
